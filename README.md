@@ -7,7 +7,7 @@
 [![license](https://img.shields.io/github/license/HITK-TECH-Community/Community-Website)](#license)
 [![Join our Slack community https://www.webiny.com/slack](https://img.shields.io/badge/Slack-Join%20our%20community!-orange)](https://join.slack.com/t/hitkteckcommunity/shared_invite/zt-njgae7ki-Xn1y4Nmc_bwqwU~tN52vrg)
 
-<p align="center" width="400px"><img src="assets/HITK_tech_comm_logo.png" width="200"></p>
+<p align="center" width="400px"><img src="assets/HITK_tech_comm_logo.png" width="200">hehehee</p>
 <p align="center" width="400px"> <font size="5"> <b> HITK Tech Community 👩🏻‍💻👨🏻‍💻 </b></font></p> <br />
 Being from tier-2 and tier-3 colleges, you often face the problem of knowledge gap in our college days. But once you begin walking in the path of tech, you discover a place where people are just like you. 😇✨ 
 We are a group of HITK students trying to fill the knowledge gap and help you find your place of discovery by sharing you the opportunities and resources at the right time!⏱️<br />
